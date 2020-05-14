@@ -64,4 +64,4 @@ typings/
 prod
 .idea
 
-build
+.secret
