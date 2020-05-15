@@ -7,8 +7,8 @@ module.exports = function (deployer) {
     return deployer.deploy(
       SolnSquareVerifier,
       Verifier.address,
-      "DxprToken",
-      "DXT"
+      "niktokenname",
+      "NTN"
     );
   });
 };

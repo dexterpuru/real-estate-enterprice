@@ -30720,7 +30720,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-15T04:23:52.720Z",
+  "updatedAt": "2020-05-15T04:41:27.287Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {

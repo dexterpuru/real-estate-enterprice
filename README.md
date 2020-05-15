@@ -35,8 +35,8 @@ Commands:
 Result:
 
 ```
-  Verifier: 0xe5D5E43337BfDB07394d9132962a3E3b2A5e4B64
-  SolnSquareVerifier: 0x3253ffBEaef51FEe7bE8fCb64ED4a89E06cfc5F7
+  Verifier: 0x23980971360799D47933D9A291Ca452675C9a6c2
+  SolnSquareVerifier: 0x539CA8894cb59c9239772Eb18115b90342A38272
 ```
 
 ## SolnSquareVerifier ABI
@@ -45,7 +45,7 @@ SolnSquareVerifier Contract ABI place [here](https://github.com/dexterpuru/real-
 
 Tokens minted with [myetherwallet tool](https://www.myetherwallet.com/interface/interact-with-contract)
 
-<!-- OpenSea Rinkeby marketplace [link](https://rinkeby.opensea.io/assets/niktokenname) -->
+OpenSea Rinkeby marketplace [link](https://rinkeby.opensea.io/assets/niktokenname)
 
 # Project Resources
 

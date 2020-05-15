@@ -30909,7 +30909,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-15T04:23:52.805Z",
+  "updatedAt": "2020-05-15T04:41:27.374Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {
