@@ -30930,7 +30930,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-14T23:50:37.968Z",
+  "updatedAt": "2020-05-15T00:04:21.844Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {

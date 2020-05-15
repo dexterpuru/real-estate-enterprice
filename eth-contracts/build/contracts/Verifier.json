@@ -73156,12 +73156,13 @@
         }
       },
       "links": {},
-      "address": "0x31fb200A4952592564DD9Ae9d9CFEaD1D583a8d9",
-      "transactionHash": "0x93c74a31afd2eddde63e43de840f5ad091f073c930cb0bb133b2d4bd49590171"
+      "address": "0x87Ec9670d1A7f1794ee251d4C420241bcb02113b",
+      "transactionHash": "0x8d0bf3b0c12efd0ce8191e0132a9d68487389556a4a2ec7210ffc3bb47568ac2"
     }
   },
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-14T23:50:48.038Z",
+  "updatedAt": "2020-05-15T00:05:06.778Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },

@@ -5424,12 +5424,13 @@
         }
       },
       "links": {},
-      "address": "0xC58Bd5089EecdBA2bE143d3A7c5140141d6D9275",
-      "transactionHash": "0x508be5633b4e93bcda7ed08f9fa3f0bbe2d444428f2ea086b40a466eff590d30"
+      "address": "0xCFBe48169B847EA01c3Cb79cFEa2dcB60aca962f",
+      "transactionHash": "0xb2c0194a0623aa97005e6a78990ef9fa363b31a3541e8afd1933697b88706fa9"
     }
   },
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-14T23:50:41.316Z",
+  "updatedAt": "2020-05-15T00:05:06.844Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {
