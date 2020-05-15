@@ -45,7 +45,7 @@ SolnSquareVerifier Contract ABI place [here](https://github.com/dexterpuru/real-
 
 Tokens minted with [myetherwallet tool](https://www.myetherwallet.com/interface/interact-with-contract)
 
-OpenSea Rinkeby marketplace [link](https://rinkeby.opensea.io/assets/niktokenname)
+<!-- OpenSea Rinkeby marketplace [link](https://rinkeby.opensea.io/assets/niktokenname) -->
 
 # Project Resources
 
